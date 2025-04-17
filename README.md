@@ -1,7 +1,13 @@
-# GitHub Profile
+# sothearath.github.io
 
-A new Name project.
+## Project
+### Project 1
+- Description
+- Links
 
-## Getting Started
+# Education
+- Some University
 
-This project is a starting point for a mobile application.
+# Work History
+- Work place 1
+- Work place 2
