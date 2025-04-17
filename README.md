@@ -1,13 +1,12 @@
 # sothearath.github.io
 
 ## Project
-### Project 1
-- Description
-- Links
+### Risk Return Assistant
+- The Risk Return Assistant App is a smart and intuitive tool designed for traders and investors to manage and evaluate their trades effectively. It helps users make informed decisions by calculating and tracking the risk-to-reward ratio of their trades.
+- [Play Store]
 
 # Education
-- Some University
+- Bachelor of Computer Science
 
 # Work History
-- Work place 1
-- Work place 2
+- Freelance
